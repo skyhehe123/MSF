@@ -1,4 +1,4 @@
-## MFS: MSF: Motion-guided Sequential Fusion for Efficient 3D Object Detection from Point Cloud Sequences (CVPR2023)[\[paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/He_MSF_Motion-Guided_Sequential_Fusion_for_Efficient_3D_Object_Detection_From_CVPR_2023_paper.pdf)
+## MSF: Motion-guided Sequential Fusion for Efficient 3D Object Detection from Point Cloud Sequences (CVPR2023)[\[paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/He_MSF_Motion-Guided_Sequential_Fusion_for_Efficient_3D_Object_Detection_From_CVPR_2023_paper.pdf)
 
 **Authors**: [Chenhang He](https://github.com/skyhehe123), Ruihuang Li, [Yabin Zhang](https://github.com/YBZh) [Shuai Li](https://github.com/strongwolf), [Lei Zhang](https://www4.comp.polyu.edu.hk/~cslzhang/).
 
